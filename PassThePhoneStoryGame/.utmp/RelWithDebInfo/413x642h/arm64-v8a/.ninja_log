@@ -1,0 +1,23 @@
+# ninja log v5
+68	677	7855544343322315	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	e297e818c84aa037
+18	11581	7855544452555287	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ebee3b045a87c465
+680	938	7855544346022357	C:/Users/micha/OneDrive/Documents/consequence-game/PassThePhoneStoryGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/413x642h/obj/arm64-v8a/libswappywrapper.so	ac48ce5a6d8214e1
+26	11211	7855544448826985	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1f7854009a177823
+42	11222	7855544448957305	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f87c1455af1aa5d1
+1	11255	7855544449295349	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c859b2d7c7cea13b
+11	11307	7855544449824781	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	96c4dd6fa030d549
+59	11275	7855544449498741	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5564847f27723915
+33	11487	7855544451614600	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5db762ca313ec03f
+50	11679	7855544453550368	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	880455b09005ea1a
+11679	11766	7855544454445520	C:/Users/micha/OneDrive/Documents/consequence-game/PassThePhoneStoryGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/413x642h/obj/arm64-v8a/libgame.so	cf5a411128574e40
+81	663	7855978198278418	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	e297e818c84aa037
+664	897	7855978200456705	C:/Users/micha/OneDrive/Documents/consequence-game/PassThePhoneStoryGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/413x642h/obj/arm64-v8a/libswappywrapper.so	ac48ce5a6d8214e1
+16	2283	7855978214499135	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	1f7854009a177823
+59	2286	7855978214519070	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f87c1455af1aa5d1
+31	2317	7855978214821762	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	c859b2d7c7cea13b
+70	2370	7855978215322020	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	5564847f27723915
+24	2476	7855978216389998	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	96c4dd6fa030d549
+50	2739	7855978219026430	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	880455b09005ea1a
+40	2743	7855978219051758	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5db762ca313ec03f
+7	2869	7855978220364712	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ebee3b045a87c465
+2869	2983	7855978221526142	C:/Users/micha/OneDrive/Documents/consequence-game/PassThePhoneStoryGame/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/413x642h/obj/arm64-v8a/libgame.so	cf5a411128574e40
